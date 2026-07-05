@@ -1,5 +1,11 @@
+# Belajar Git
+
+Repository pertama saya.
+
 ## Login Feature
 
-- POST /login
-- JWT Authentication
-- Email & Password
+- Endpoint: POST /login
+- Authentication: JWT
+- Input:
+  - Email
+  - Password
